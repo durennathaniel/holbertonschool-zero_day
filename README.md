@@ -105,4 +105,23 @@ GitHub repository: holbertonschool-zero_day
 Directory: 0x02-vi
 File: README.md
 
+Repo:
+
+GitHub repository: holbertonschool-zero_day
+Directory: 0x03-git
+File: bash/holberton, bash/school, bash/98
+
+
+Repo:
+
+GitHub repository: holbertonschool-zero_day
+Directory: 0x03-git
+File: js/index.js, js/main.js
+
+
+Repo:
+
+GitHub repository: holbertonschool-zero_day
+Directory: 0x03-git
+File: c/c_is_fun.c
 
