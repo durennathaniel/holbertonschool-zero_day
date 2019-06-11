@@ -1,1 +1,1 @@
-C-a C-SPC C-e C-w
+M-x kill-whole-line
