@@ -109,14 +109,7 @@ Repo:
 
 GitHub repository: holbertonschool-zero_day
 Directory: 0x03-git
-File: bash/holberton, bash/school, bash/98
-
-
-Repo:
-
-GitHub repository: holbertonschool-zero_day
-Directory: 0x03-git
-File: js/index.js, js/main.js
+File: bash/holberton, bash/school
 
 
 Repo:
